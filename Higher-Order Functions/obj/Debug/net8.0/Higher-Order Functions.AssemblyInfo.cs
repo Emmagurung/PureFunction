@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Higher-Order Functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64a9a79faf598df86b52b12a102c2043ad8e9ab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Higher-Order Functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Higher-Order Functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
