@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.AssemblyInfo.cs
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\pure function\Immutability\bin\Debug\net8.0\Immutability.exe
+C:\Users\Dell\source\repos\pure function\Immutability\bin\Debug\net8.0\Immutability.deps.json
+C:\Users\Dell\source\repos\pure function\Immutability\bin\Debug\net8.0\Immutability.runtimeconfig.json
+C:\Users\Dell\source\repos\pure function\Immutability\bin\Debug\net8.0\Immutability.dll
+C:\Users\Dell\source\repos\pure function\Immutability\bin\Debug\net8.0\Immutability.pdb
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.dll
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\refint\Immutability.dll
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.pdb
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\Immutability.genruntimeconfig.cache
+C:\Users\Dell\source\repos\pure function\Immutability\obj\Debug\net8.0\ref\Immutability.dll
